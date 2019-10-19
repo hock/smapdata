@@ -1,5 +1,6 @@
 # smapdata
-Archived smap data
+SMAP Data Repository
+This repository houses the publicly shared supply chains produced for the [sourcemap](https://supplystudies.com/sourcemap-org/) platform. Each entry provides links to the raw supply chain description (smap) file, a simple geodata file, and a link to view the entry in the Manifest supply chain viewer. A small number of interesting examples have been included below, but a complete listing of the 5000+ entries is available [here](). 
 
 * 5228 : Petfood Analysis "My Dog's Dinner" : [View in Manifest](https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#5228) | [Source Data](https://github.com/hock/smapdata/blob/master/data/5228.json) | [Simple Geodata](https://github.com/hock/smapdata/blob/master/data/5228.geojson)
 * 5333 : Apple Suppliers : [View in Manifest](https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#5333) | [Source Data](https://github.com/hock/smapdata/blob/master/data/5333.json) | [Simple Geodata](https://github.com/hock/smapdata/blob/master/data/5333.geojson)
