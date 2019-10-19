@@ -1,7 +1,6 @@
 # smapdata
 Archived smap data
 
-* 744 : Laptop Computer : [View in Manifest](https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#744) | [Source Data](https://github.com/hock/smapdata/blob/master/data/744.json) | [Simple Geodata](https://github.com/hock/smapdata/blob/master/data/744.geojson)
 * 1536 : US Barley Production 2007 : [View in Manifest](https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#1536) | [Source Data](https://github.com/hock/smapdata/blob/master/data/1536.json) | [Simple Geodata](https://github.com/hock/smapdata/blob/master/data/1536.geojson)
 * 1672 : Food Alliance - connections : [View in Manifest](https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#1672) | [Source Data](https://github.com/hock/smapdata/blob/master/data/1672.json) | [Simple Geodata](https://github.com/hock/smapdata/blob/master/data/1672.geojson)
 * 1680 : The Fancy Food Show - Connections : [View in Manifest](https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#1680) | [Source Data](https://github.com/hock/smapdata/blob/master/data/1680.json) | [Simple Geodata](https://github.com/hock/smapdata/blob/master/data/1680.geojson)
