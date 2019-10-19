@@ -1,0 +1,24 @@
+/* Manifest Default Stylings */
+
+/* General Styles */
+body { font-family: sans-serif; font-weight: regular; color: #777; background-color:#34485E;}
+h1 { font-weight: bold; font-size: 2em; letter-spacing: -1px; color: #333; line-height: 33px; }
+p { margin: 8px 0 20px 0; line-height: 18px; }
+a, a:visited { color:blue; text-decoration: none; }
+#wrapper {
+	width:50em;
+	padding:2em;
+	margin:2em auto;
+	background: #fff;
+	border-radius:1em;
+}
+#overview, #listcontainer {}
+a:hover { text-decoration: underline; }
+
+.clear { clear:both; }
+
+ul#mlist { display:block;margin:0;padding:0;list-style:none; }
+ul#mlist li { margin:2px 0;padding:10px 0; }
+ul#mlist li div { cursor:pointer;height:12px;width:12px;-webkit-border-radius:11.5px;border-radius:11.5px;border:3px solid #3498DB;margin:0 5px 0 15px;background:#3498DB;float:left; }
+ul#mlist li div:hover { background:#fff; }
+
