@@ -30,7 +30,7 @@ foreach($files as $file) {
 
 	$array = json_decode($strJsonFileContents, true);
 	if(isset($array["supplychain"])) {
-		$short .= "<li><div></div>".$array["supplychain"]["id"]." : ".$array["supplychain"]["attributes"]["title"]." [<a href=\"https://rawgit.com/hock/Manifest/master/index.html#".$array["supplychain"]["id"]."\">View in Manifest</a>] [<a href=\"https://github.com/hock/smapdata/blob/master/".$array["supplychain"]["id"].".json\">Source Data</a>] [<a href=\"https://github.com/hock/smapdata/blob/master/".$array["supplychain"]["id"].".geojson\">Geodata</a>]</li>";
+		$short .= "<li><div></div>".$array["supplychain"]["id"]." : ".$array["supplychain"]["attributes"]["title"]." [<a href=\"https://rawcdn.githack.com/hock/Manifest/d67cd9577e97286e0ed262d331a6e4553ab31980/index.html#".$array["supplychain"]["id"]."\">View in Manifest</a>] [<a href=\"https://github.com/hock/smapdata/blob/master/data/".$array["supplychain"]["id"].".json\">Source Data</a>] [<a href=\"https://github.com/hock/smapdata/blob/master/data/".$array["supplychain"]["id"].".geojson\">Geodata</a>]</li>";
 	}
 }
 
